@@ -1,0 +1,26 @@
+{
+  "name": "reactwars",
+  "version": "0.0.0",
+  "description": "Library to display Star Wars API data well",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andytan2624/reactwars.git"
+  },
+  "keywords": [
+    "starwars"
+  ],
+  "author": "Andy Tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andytan2624/reactwars/issues"
+  },
+  "homepage": "https://github.com/andytan2624/reactwars",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
